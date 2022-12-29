@@ -1,6 +1,19 @@
 # Fox-Dorks
 Um sistema de busca de sites vulneráveis usando o Google Dorks (Testado apenas no TERMUX)
 
+----INSTALAÇÃO----
+
+Siga os comandos abaixo: 
+
+$ git clone https://github.com/FoxsBlintersOFC07/Fox-Dorks
+
+$ cd Fox-Dorks
+
+$ pip install -r requirements.txt
+
+$ python FoxDorks.py
+
+APRESENTAÇÃO:
 
 ---GOOGLE DORK----
 
