@@ -1,28 +1,4 @@
-#!/usr/bin/env/python3
-# This Python file uses the following encoding: utf-8
-
-# ===== #
-#   
-# ▀█████████▄     ▄████████         Websites: foxsblinters.simdif.com
-#   ███    ███   ███    ███         Author: FOX-BLINTER | Medusa✓
-#   ███    ███   ███    █▀          GitHub:https://github.com/FoxsBlintersOFC07
-#  ▄███▄▄▄██▀   ▄███▄▄▄             
-# ▀▀███▀▀▀██▄  ▀▀███▀▀▀             
-#   ███    ██▄   ███    █▄          
-#   ███    ███   ███    ███         
-# ▄█████████▀    ██████████         
-#                                   
-#          FoxDorks
-# ===== #
-
-# ===== #
-# Creditos a: Aye .
-# ===== #
-
-########################################################################
-
-########################################################################
-
+#!/usr/bin/env/python3 know
 
 from __future__ import print_function
 try:
@@ -48,6 +24,9 @@ class colors:
     CRED2 = "\33[91m"
     CBLUE2 = "\33[94m"
     ENDC = "\033[0m"
+
+import os
+os.system('clear')
 
 from pyfiglet import Figlet
 custom_fig = Figlet(font='cosmic')
