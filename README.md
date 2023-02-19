@@ -13,6 +13,8 @@ $ pip install -r requirements.txt
 
 $ python FoxDorks.py
 
+<h2 align="center">TUTORIAL DE INSTALAÇÃO: <a href='https://youtu.be/0AttzwQ8Sr0' target='_blank'>LINK DO TUTORIAL</a></h2>
+
 APRESENTAÇÃO:
 
 ---GOOGLE DORK----
