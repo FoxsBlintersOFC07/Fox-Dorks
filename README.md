@@ -4,16 +4,14 @@ Um sistema de busca de sites vulneráveis usando o Google Dorks (Testado apenas 
 ----INSTALAÇÃO----
 
 Siga os comandos abaixo: 
-```
-git clone https://github.com/FoxsBlintersOFC07/Fox-Dorks
 
-cd Fox-Dorks
+$ git clone https://github.com/FoxsBlintersOFC07/Fox-Dorks
 
-pip install -r requirements.txt
+$ cd Fox-Dorks
 
-python FoxDorks.py
-```
-<h2 align="center">TUTORIAL DE INSTALAÇÃO: <a href='https://youtu.be/cvOQA_SLPyU' target='_blank'>LINK DO TUTORIAL</a></h2>
+$ pip install -r requirements.txt
+
+$ python FoxDorks.py
 
 APRESENTAÇÃO:
 
@@ -32,9 +30,7 @@ Este script realiza uma pesquisa geral de acordo com a Dork que o usuário escol
 
 Abaixo algumas dorks para vc usar no Script:
 
-<h1 align="center">DORKS PARA SQL:</h1> 
 
-```
 inurl: index.php?cat=
 inurl: cadastro.php?cat=
 inurl: produtos_ver.php?cat=
@@ -78,35 +74,6 @@ inurl: pagar.php?cat=
 inurl: revista.php?id=
 inurl: produtos-detalhes.php?id=
 inurl: pagina.php?id=
-```
 
-<h1 align="center">DORKS PARA XSS:</h1>
 
-```
-inurl:".php?cmd="
-inurl:".php?z="
-inurl:".php?q="
-inurl:".php?search="
-inurl:".php?query="
-inurl:".php?searchst­ring="
-inurl:".php?keyword=­"
-inurl:".php?file="
-inurl:".php?years="
-inurl:".php?txt="
-inurl:".php?tag="
-inurl:".php?max="
-inurl:".php?from="
-inurl:".php?author="
-inurl:".php?pass="
-inurl:".php?feedback­="
-inurl:".php?mail="
-inurl:".php?cat="
-inurl:".php?vote="
-inurl:search.php?q=
-inurl:com_feedpostol­d/feedpost.php?url=
-inurl:scrapbook.php?­id=
-inurl:headersearch.p­hp?sid=
-inurl:/poll/­default.asp?catid=
-inurl:/­search_results.php?se­arch=
-```
 Créditos: ᶠᵒˣʸˢ᭄Anonymous➢ᵇˡᶤᶰᵗᵉʳˢ

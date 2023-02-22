@@ -1,3 +1,4 @@
+sty
 termcolor
 pyfiglet
 google
