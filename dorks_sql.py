@@ -91,8 +91,8 @@ Lista()
 autorizacao = input("APÓS COPIAR SUA DORK, DIIGTE: " + VERMELHO + '"Y"' + INCOLOR + " PARA PROSSEGUIR: \033[0;32m ")
 
 if autorizacao == "Y" or "y":
-   os.system("python index.py")
    clear()
+   os.system("python index.py")
 elif autorizacao == "N" or "n":
    print("「!」➤ Comando Inválido");time.sleep(0.7)
    os.system("python dorks.sql.py")
